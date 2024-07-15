@@ -31,3 +31,12 @@ p {
     justify-content: center;
 
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: grey;
+  }
